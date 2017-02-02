@@ -15,7 +15,7 @@ Steps that I took to manually fix the problem:
 2. hit windows key + r
 3. type %APPDATA%
 4. open the .minecraft folder
-5. then I deleted every folder except the saved folder
+5. then I deleted every folder except the saves folder
 6. I started the game.
 
 everything then worked for me doing it manually.
